@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 items-center text-center">
         {/* Tech Takshak Logo */}
         <Image
-          src="app/final  logo.png" // Adjust this path based on your file location
+          src="app/tt.png" // Adjust this path based on your file location
           alt="Tech Takshak Logo"
           width={200}
           height={200}
